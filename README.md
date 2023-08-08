@@ -4,7 +4,7 @@
 
 ### winterlood 이정환 님의 강좌를 바탕으로 제작됨
 
-## 🌟
+## 🌟 학습자
 
 <table>
 <thead>
@@ -20,6 +20,8 @@
 
 ## 학습목차
 
+![](https://velog.velcdn.com/images/gazero_/post/129e7429-f8d2-4a20-9ecf-59554c342774/image.png)
+<br>
 [section2. 한입 크기로 잘라먹는 리액트 - 변수와 상수](/section02/01_변수와상수.md)
 <br>
 [section2. 한입 크기로 잘라먹는 리액트 - 자료형과 형 변환](/section02/02_자료형과형변환.md)
