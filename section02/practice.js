@@ -1,12 +1,3 @@
-let gazero = {
-  name: "가영",
-  age: 19,
-  gender: "female",
-};
+const gazero = ["가영아", "너는", "오늘도", "뭐하는거니"];
 
-const gazeroValues = Object.values(gazero);
-console.log(gazeroValues);
-
-for (let i = 0; i < gazeroValues.length; i++) {
-  console.log(gazeroValues[i]);
-}
+console.log(gazero.join(" "));
